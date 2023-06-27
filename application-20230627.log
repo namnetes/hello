@@ -1,0 +1,5 @@
+2023-06-27 21:07:58.439 [main] DEBUG com.namnetes.hello.HelloWorld - We've just greeted the user!
+2023-06-27 21:07:58.442 [main] INFO  com.namnetes.hello.HelloWorld - We've just greeted the user!
+2023-06-27 21:07:58.442 [main] WARN  com.namnetes.hello.HelloWorld - We've just greeted the user!
+2023-06-27 21:07:58.443 [main] ERROR com.namnetes.hello.HelloWorld - We've just greeted the user!
+2023-06-27 21:07:58.443 [main] FATAL com.namnetes.hello.HelloWorld - We've just greeted the user!
